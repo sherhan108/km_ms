@@ -1,0 +1,3 @@
+[submodule "/home/sherhan/.git/km_ms/wp"]
+	path = /home/sherhan/.git/km_ms/wp
+	url = https://github.com/WordPress/WordPress.git
